@@ -6,6 +6,7 @@ print("July has " + str(july_days) + " days.")
 
 # Replacing code above to demonstrate the code reusability via functions
 
+# Solution
 def month_days(month,days):
     print(month + " has " + str(days) + " days.")
 
