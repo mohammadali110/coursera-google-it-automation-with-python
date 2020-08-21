@@ -12,7 +12,9 @@ I have organised the excercises by course & the week number basis (ignoring week
 I am on course #1 below, hope to continue this as I take this journey.
 
 1. Crash Course on Python (excercises in progress)
-- Week 2: (in progress)
+- Week 1: Completed
+- Week 2: Completed
+- Week 3: (in progress)
 2. Using Python to Interact with the Operating System
 3. Introduction to Git and GitHub
 4. Troubleshooting and Debugging Techniques
