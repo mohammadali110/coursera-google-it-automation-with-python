@@ -1,4 +1,4 @@
-## Week 2 - Crash course on Python 
+## Week 1 - Crash course on Python 
 [Course Home](https://www.coursera.org/learn/python-crash-course/home/welcome)
 
 Since the course is designed for first time python and programming learners, the pace is leisurely but every step is carefully planned and crafted. 
