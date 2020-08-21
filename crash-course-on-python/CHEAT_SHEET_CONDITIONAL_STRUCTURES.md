@@ -1,3 +1,5 @@
+*This cheat sheet is provided as course content by instructors as a quick refrence guide to conditional statements.*
+
 ## Conditionals Cheat Sheet
 
 In earlier videos, we took a look at some of the built-in Python operators that allow us to compare values, and some logical operators we can use to combine values. We also learned how to use operators in if-else-elif blocks. 
