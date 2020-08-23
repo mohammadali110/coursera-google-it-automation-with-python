@@ -42,8 +42,8 @@ range() generates a sequence of integer numbers. It can take one, two, or three 
 
 ### Common pitfalls:
 
-    Forgetting that the upper limit of a range() isn’t included.
-    Iterating over non-sequences. Integer numbers aren’t iterable. Strings are iterable letter by letter, but that might not be what you want.
+* Forgetting that the upper limit of a range() isn’t included.
+* Iterating over non-sequences. Integer numbers aren’t iterable. Strings are iterable letter by letter, but that might not be what you want.
 
 ### Typical use:
 

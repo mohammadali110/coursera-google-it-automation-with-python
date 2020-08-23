@@ -1,15 +1,29 @@
-## Week 3 - Crash course on Python 
+# Week 3 - Crash course on Python 
 [Course Home](https://www.coursera.org/learn/python-crash-course/home/welcome)
 
 Week three is about loops.
 
 - what are loops
-- how to execute them
-- what are the common pitfalls
+- How to execute them
+- What are the common pitfalls
 - While loop
 - For loop
+- range() function
+- Nested loops
+- Lists & Strings iteration
+- Break & Continue statements
+- and last but not the least -> RECURSION (non-graded / marked as optional for certification)
 
-There are two practice quizzes for this week, answers to them are provided in Markdown files in this repository
+## Practice Quizzes
+There are two practice quizzes for this week, 
+* one for WHILE loop
+* one for FOR loop
+
+Answers to them are provided in Markdown files within this folder
+
+
+## Cheat Sheet 
+Added a cheat sheet regarding Loops to the root folder of this repository
 
 
 

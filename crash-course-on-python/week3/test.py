@@ -1,23 +1,30 @@
-def multiplication_table(number):
-	# Initialize the starting point of the multiplication table
-	multiplier = 1
+# def retry(operation, attempts):
+#   for n in range(attempts):
+#     if operation():
+#         print("Attempt " + str(n) + " succeeded")
+#         break
+#     else:
+#         print("Attempt " + str(n) + " failed")
+# retry(create_user, 3)
+# retry(stop_service, 5)
 
-	# Only want to loop through 5
-	while multiplier <= 5:
-		result = number*multiplier
-		
-        # What is the additional condition to exit out of the loop?
-		if result >= 25 :
-			break
-		print(str(number) + "x" + str(multiplier) + "=" + str(result))
-		# Increment the variable for the loop
-		multiplier += 1
 
-multiplication_table(3) 
-# Should print: 3x1=3 3x2=6 3x3=9 3x4=12 3x5=15
+# number = 0
 
-multiplication_table(5) 
-# Should print: 5x1=5 5x2=10 5x3=15 5x4=20 5x5=25
+# for number in range(10):
+#     if number == 5:
+#         break    # break here
 
-multiplication_table(8)	
-# Should print: 8x1=8 8x2=16 8x3=24
+#     print('Number is ' + str(number))
+
+# print('Out of loop')
+
+def factorial(n):
+    result = 1
+    for x in range(1,n):
+        result = result * x
+        print("x ="+str(x))
+    return result
+
+for n in range(1,11):
+    print(n, factorial(n+1))
